@@ -1,0 +1,18 @@
+      Hotel Management System
+
+Bill ID:		2
+Date:			30-03-2022
+Time:			22:44:28
+
+Customer Name:			Bhakti
+Customer Aadhar:			136479236489
+Customer Phone:			4679136454
+Check-In Date-Time:		2022-03-28 14:03:55
+Check-Out Date-Time:		2022-03-30 22:44:28
+Room Used:				102
+Price:				170.0 per hr.
+
+Gross Amount:			9520.0
+GST:					18\%
+
+Total Amount:			Rs 11233
